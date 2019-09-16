@@ -7,7 +7,7 @@ Express + Prisma + React and React Native
 - [x] create account
 - [x] request secret
 - [x] confirm secret (login)
-- [] Like / UnLike a photo
+- [x] Like / UnLike a photo
 - [] Comment on a photo
 - [] Search by user
 - [] Search by location
