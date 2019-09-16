@@ -26,10 +26,7 @@ export const sendSecretMail = (address, secret) => {
     from: "the2792@gmail.com",
     to: address,
     subject: "Login Secret for Instagram",
-    html: `Hello! Your Login secret it ${secret}. <br/> Copy paste on the app/web to log in`
+    html: `Hello! Your Login secret it <strong>${secret}</strong>. <br/> Copy paste on the app/web to log in`
   };
   return sendMail(email);
 };
-
-console.log(process.env.SENDGRID_USERNAME);
-console.log(process.env.SENDGRID_PASSWORD);

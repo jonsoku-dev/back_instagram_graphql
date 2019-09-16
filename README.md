@@ -5,8 +5,8 @@ Express + Prisma + React and React Native
 ## User Stroies
 
 - [x] create account
-- [] request secret
-- [] confirm secret (login)
+- [x] request secret
+- [x] confirm secret (login)
 - [] Like / UnLike a photo
 - [] Comment on a photo
 - [] Search by user
