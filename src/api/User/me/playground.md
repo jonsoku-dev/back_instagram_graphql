@@ -1,0 +1,9 @@
+```grapqhql
+{
+  me{
+    posts{
+      id
+    }
+  }
+}
+```
