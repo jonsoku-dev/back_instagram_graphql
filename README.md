@@ -8,11 +8,11 @@ Express + Prisma + React and React Native
 - [x] request secret
 - [x] confirm secret (login)
 - [x] Like / UnLike a photo
-- [] Comment on a photo
-- [] Search by user
-- [] Search by location
+- [x] Comment on a photo
+- [x] Search by user
+- [x] Search by location
+- [x] Follow / UnFollow User
 - [] See user profile
-- [] Follow / UnFollow User
 - [] See the full photo
 - [] Edit my profile
 - [] Log in
