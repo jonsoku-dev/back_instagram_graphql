@@ -5,3 +5,13 @@
   }
 }
 ```
+
+```graphql
+{
+  seeUser(id: "ck0l73h5svtn20b093i10amn9") {
+    user {
+      fullName
+    }
+  }
+}
+```
