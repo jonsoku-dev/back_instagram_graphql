@@ -11,3 +11,25 @@
   }
 }
 ```
+
+```graphql
+{
+  seeFullPost(id: "ck0s0ejg7fhy20b09uapdn813") {
+    caption
+    location
+    likeCount
+    files {
+      id
+    }
+    user {
+      id
+    }
+    comments {
+      id
+    }
+    createdAt
+  }
+}
+
+``
+```
